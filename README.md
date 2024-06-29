@@ -50,5 +50,5 @@
 </center>
 <hr>
 <h1>FOLDER STRUCTURE</h1>
-<img src="SCREENSHOT/Capture1.png"/>
+<img src="SCREENSHOT/Capture1.PNG"/>
 <h1 style="color:red;">Rahul Kumar Yadav</h1>
