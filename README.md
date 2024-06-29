@@ -57,4 +57,7 @@
 <hr>
 <h1>ADDING NEW BIKE INFORMATION USING POST METHOD</h1>
 <img src="SCREENSHOT/Capture3.PNG"/>
+<hr>
+<h1>DISPLAYING ALL THE BIKE INFORMATION USING GET METHOD</h1>
+<img src="SCREENSHOT/Capture4.PNG"/>
 <h1 style="color:red;">Rahul Kumar Yadav</h1>
