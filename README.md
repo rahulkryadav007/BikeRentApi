@@ -69,4 +69,7 @@
 <hr>
 <h1>(7) DELETING BIKE INFORMATION BY ID USING DELETE METHOD</h1>
 <img src="SCREENSHOT/Capture7.PNG"/>
+<hr>
+<h1>(8) DATABASE :  MYSQL WORKBENCH BIKE INFORMATION</h1>
+<img src="SCREENSHOT/Capture8.PNG"/>
 <h3 style="color:red;">Rahul Kumar Yadav</h3>
