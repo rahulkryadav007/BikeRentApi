@@ -63,4 +63,7 @@
 <hr>
 <h1>DISPLAYING PARTICULAR BIKE INFORMATION BY ID  USING GET METHOD</h1>
 <img src="SCREENSHOT/Capture5.PNG"/>
+<hr>
+<h1>UPDATING BIKE INFORMATION BY ID USING PUT METHOD</h1>
+<img src="SCREENSHOT/Capture6.PNG"/>
 <h1 style="color:red;">Rahul Kumar Yadav</h1>
