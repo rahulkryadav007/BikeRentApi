@@ -51,4 +51,7 @@
 <hr>
 <h1>FOLDER STRUCTURE</h1>
 <img src="SCREENSHOT/Capture1.PNG"/>
+<hr>
+<h1>Application Properties Configuration</h1>
+<img src="SCREENSHOT/Capture2.PNG"/>
 <h1 style="color:red;">Rahul Kumar Yadav</h1>
