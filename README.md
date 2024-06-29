@@ -52,6 +52,9 @@
 <h1>FOLDER STRUCTURE</h1>
 <img src="SCREENSHOT/Capture1.PNG"/>
 <hr>
-<h1>Application Properties Configuration</h1>
+<h1>Application Properties Configuration</h1><P>FOR MYSQL</P>
 <img src="SCREENSHOT/Capture2.PNG"/>
+<hr>
+<h1>ADDING NEW BIKE INFORMATION USING POST METHOD</h1>
+<img src="SCREENSHOT/Capture3.PNG"/>
 <h1 style="color:red;">Rahul Kumar Yadav</h1>
